@@ -1,8 +1,8 @@
 # TmapTest
-## for toy project #1 group navigation
+ for toy project #1 group navigation
 ## 기능 테스트 완료
 
->2021.04.12
+>2021.03.14
 >
 > >1. 마커 추가
 > >2. 지도 클릭 이벤트
