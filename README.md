@@ -2,7 +2,7 @@
  for toy project #1 group navigation
  
  Tmap API test
-## 기능 테스트 완료
+## 테스트 완료
 
 >2021.03.14
 >
