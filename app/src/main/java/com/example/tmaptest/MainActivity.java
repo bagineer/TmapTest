@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         LinearLayout layoutTmap = (LinearLayout)findViewById(R.id.layoutTmap);
         TMapView tMapView = new TMapView(acContext);
-        tMapView.setSKTMapApiKey("f046ae9c-09be-435a-b903-8be2799443e8");
+        tMapView.setSKTMapApiKey("");   # insert your tmap api key
 
         TMapMarkerItem st_marker = new TMapMarkerItem();
         TMapPoint st_point = new TMapPoint(37.73213660662052, 127.08287877338195);
